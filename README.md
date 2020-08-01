@@ -44,6 +44,6 @@ Im **dritten Teil** beschäftigen wir uns mit dem wichtigen Prinzip der Nebenlä
 
 Wenn wir mit dem bisherigen Stoff gut vorankommen, wird es in dem **vierten und letzten Teil** um das Entwickeln von Spielen mit Hilfe der Simple DirectMedia Layer Bibliothek gehen.<br/>
 
-Während des Verlauf des Kurses werden immer wieder Programme geschrieben, die möglichst viel des Gelernten zusammenfassen. Das können Sortieralgorithmen, kleine Spiele, eigene Datenstrukturen oder Komponenten aus der Systemprogrammierung sein. Der Stoff wird anhand Screencast Videos und Online-Sprechstunden vermittelt. Der vorgestellte Code wird auf GitLab hochgeladen. Außerdem werden regelmäßig Quizzes auf ISIS gestellt, die Sie zur Selbstüberprüfung und dem Verfestigen des Stoffes nutzen können.<br/>
+Während des Verlauf des Kurses werden immer wieder Programme geschrieben, die möglichst viel des Gelernten zusammenfassen. Das können Sortieralgorithmen, kleine Spiele, eigene Datenstrukturen oder Komponenten aus der Systemprogrammierung sein. Der Stoff wird anhand Screencast Videos und Online-Sprechstunden vermittelt. Der vorgestellte Code wird auf GitLab und GitHub hochgeladen. Außerdem werden regelmäßig Quizzes auf ISIS gestellt, die Sie zur Selbstüberprüfung und dem Verfestigen des Stoffes nutzen können.<br/>
 <br/>
 Der Kursplan ist flexibel und kann sich noch im Laufe des Semesters, auch je nach euren Wünschen, ändern.<br/>
