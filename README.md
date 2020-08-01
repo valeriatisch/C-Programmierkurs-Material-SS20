@@ -1,10 +1,10 @@
 # C Programmierkurs für Studentinnen SoSe 2020<br/>
 <br/>
 Hierbei handelt es sich um Code-Schnipsel wie kleine Programme, die ich im Laufe des C Programmierkurses zu Lehrzwecken erstellt habe.<br/>
-#### Warum sollte man die Programmiersprache C lernen?<br/>
+## Warum sollte man die Programmiersprache C lernen?<br/>
 C ist eine der stabilsten und beliebtesten Programmiersprachen der Welt. C wird überall dort eingesetzt, wo es auf Geschwindigkeit und Flexibilität ankommt, wie z.B. bei eingebetteten Systemen oder Hochleistungsrechnern. Unix-Software und Systemkernel vieler Betriebssysteme sind in C geschrieben. Außerdem wird es euch deutlich leichter fallen, viele weitere höhere Programmiersprachen zu erlernen, die auf C basieren. <br/>
 
-#### Kursinhalt<br/>
+### Kursinhalt<br/>
 Im **ersten Teil** des Kurses geht es um die Prinzipien und Grundlagen der Programmierung in C. Ihr lernt die ersten Programme zu schreiben und auszuführen.<br/>
 Alle folgenden Konzepte werden mithilfe vieler Beispiele behandelt.
 <ul>
