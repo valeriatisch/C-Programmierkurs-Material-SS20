@@ -1,0 +1,13 @@
+#ifndef C_PROGRAMMIERKURS_FUER_STUDENTINNEN_11PROGRAMMSTRUKTUR_H
+#define C_PROGRAMMIERKURS_FUER_STUDENTINNEN_11PROGRAMMSTRUKTUR_H
+
+#include <stdio.h>
+#define MACRO_FUNC() 2+3
+#define KONSTANTE 100
+
+int sum(int a, int b);
+void junk_func0();
+double junk_func1(int array[], char string[]);
+
+
+#endif //C_PROGRAMMIERKURS_FUER_STUDENTINNEN_11PROGRAMMSTRUKTUR_H
